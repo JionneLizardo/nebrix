@@ -1,2 +1,2 @@
 # nebrix
-A static webpage of Nebrix
+A static webpage of Nebrix and his fantasies
